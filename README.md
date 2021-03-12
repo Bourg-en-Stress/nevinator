@@ -23,3 +23,5 @@ Lorsqu'on initialise un nouveau *repository* sur Github, nous pouvons définir u
 
 La problématique est la suivante : tous les développeurs ne sont pas des juristes dans l'âme, et les différences entre ces licences sont parfois subtiles, quand elles ne sont pas simplement obscures. L'objectif de ce projet est de produire une application qui va permettre, par un système de questions / réponses et de filtres, de définir le périmètre légal d'un projet dès la première publication de son code source, en déterminant exactement LA licence qui correspond à la vision de son initiateur.
 
+## Ressources identifiées 
+- .[Choisir un licence](https://choosealicense.com)
