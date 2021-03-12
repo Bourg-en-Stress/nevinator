@@ -25,11 +25,11 @@ La problématique est la suivante : tous les développeurs ne sont pas des juris
 
 ## Ressources identifiées 
 - [Choisir un licence](https://choosealicense.com)
-- [Choisir un licence](Choisir un licence](https://choosealicense.com)
+- [Choisir un licence]((https://choosealicense.com)
 - [Défendre l'open source](https://opensource.org/)
 - [Sélécteur licences](https://tldrlegal.com/)
 - [Sélécteur licences projet github](https://ufal.github.io/public-license-selector/)
-- -[Sélécteur licences ](http://oss-watch.ac.uk/apps/licdiff/)
+- [Sélécteur licences ](http://oss-watch.ac.uk/apps/licdiff/)
 - [Définitions et types de licences](https://www.appvizer.fr/magazine/services-informatiques/gestion-licences/licence-open-source#les-licences-publiques-generales-gpl-ou-gnu-gpl)
 - [Vidéo qu'est ce qu'un logiciel libre](https://www.youtube.com/watch?v=NTuJHcEoHLs)
 - [Info licences open source](https://www.journaldunet.com/solutions/dsi/1141398-comment-se-reperer-dans-la-jungle-des-licences-open-source/)
