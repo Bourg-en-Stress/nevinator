@@ -25,7 +25,7 @@ La problématique est la suivante : tous les développeurs ne sont pas des juris
 
 ## Ressources identifiées 
 - [Choisir un licence](https://choosealicense.com)
-- [Choisir un licence]((https://choosealicense.com)
+- [Choisir un licence](https://choosealicense.com)
 - [Défendre l'open source](https://opensource.org/)
 - [Sélécteur licences](https://tldrlegal.com/)
 - [Sélécteur licences projet github](https://ufal.github.io/public-license-selector/)
