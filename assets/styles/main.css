@@ -1,0 +1,43 @@
+.body{
+    font-family: 'Dosis', sans-serif;
+    margin:0px;
+    background-color: #303849;
+    background-image:url(../images/fond-questionnaire.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.size-card{
+    height:40rem;
+    margin-top:107px;
+}
+
+.card{
+    height: 100%;
+    text-align: center;
+    /*background-image:url(../images/fond-questionnaire/fond-1.png);
+    background-size:contain;
+    background-repeat: no-repeat;*/
+}
+
+.card-body{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+}
+
+.bouton{
+    width:auto;
+}
+
+.btn{
+    font-size:2em;
+    background-color: #303849;
+    border:none;
+    margin:15px;
+    width:150px;
+}
+
+.btn:hover{
+    background-color:#67B26F;
+}
