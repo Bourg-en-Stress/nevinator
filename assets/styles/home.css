@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+p{
+    text-align: start;
+}
+
+.bouton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btn{
+    width: auto;
+    margin: 0px;
+}
+
+.card{
+    border: none;
+}
+
+.jungle{
+    width:auto;
+}
+
+.size-card{
+    margin-top:50px;
+}
