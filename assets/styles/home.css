@@ -23,9 +23,14 @@ p{
 }
 
 .jungle{
-    width:auto;
+    width:100%;
 }
 
 .size-card{
     margin-top:50px;
 }
+
+.container-fluid{
+    width: 100%;
+}
+
