@@ -9,7 +9,7 @@
 
 .size-card{
     height:40rem;
-    margin-top:107px;
+    margin-top:60px;
 }
 
 .card{
@@ -65,12 +65,26 @@ p{
 }
 
 
-@media(max-width: 850px){
+@media(max-width: 976px){
     .titre{
         font-size:25px;
         margin-right: 20px;
         width:300px;
         text-align: center;
     }
+    .body{
+        font-size: 0.7em;
+    }
+}
 
+@media(max-width: 710px){
+    .titre{
+        font-size:20px;
+        margin-right: 20px;
+        text-align: center;
+        width: 600px;
+    }
+    .body{
+        font-size: 0.7em;
+    }
 }
