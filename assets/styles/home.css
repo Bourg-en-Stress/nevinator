@@ -1,5 +1,6 @@
 h1{
-    text-align:center;
+    text-align: center;
+    margin-top: 50px;
 }
 
 p{
@@ -8,19 +9,23 @@ p{
 
 .bouton{
     display: flex;
-    flex-direction:row;
-    justify-content:center;
+    flex-direction: row;
+    justify-content: center;
 }
 
 .btn{
     width: auto;
-    margin:0px;
-}
-
-.size-image{
-    margin-bottom: 50px;
+    margin: 0px;
 }
 
 .card{
-    border:none;
+    border: none;
+}
+
+.jungle{
+    width:auto;
+}
+
+.size-card{
+    margin-top:50px;
 }
