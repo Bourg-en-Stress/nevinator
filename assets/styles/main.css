@@ -1,7 +1,7 @@
 .body{
     font-family: 'Dosis', sans-serif;
     margin:0px;
-    background-color: #303849;
+    /*background-color: #303849;*/
     background-image:url(../images/fond-questionnaire.jpg);
     background-size:cover;
     background-repeat: no-repeat;
@@ -40,4 +40,21 @@
 
 .btn:hover{
     background-color:#67B26F;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+.btnrestart{
+    background-color:white;
+    color: #303849;
+    border:none;
+    margin:5px;
+    width: 60px;
+}
+
+.btnrestart:hover{
+    background-color:#67B26F;
+    text-align: center;
 }
