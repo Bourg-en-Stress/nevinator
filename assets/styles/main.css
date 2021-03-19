@@ -72,3 +72,13 @@ p{
     }
 }
 
+.listesize{
+    display: flex;
+    align-content: flex-start;
+    height: 150px;
+}
+li{
+    text-align: left;
+
+}
+
