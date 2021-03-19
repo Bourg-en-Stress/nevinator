@@ -1,6 +1,5 @@
 .body{
     font-family: 'Dosis', sans-serif;
-    margin:0px;
     /*background-color: #303849;*/
     background-image:url(../images/fond-questionnaire.jpg);
     background-size:cover;
@@ -89,6 +88,7 @@ li{
     justify-content:center;
     font-size:10px;    
     margin: 5px;
+    width: auto;
 }
 
 .credits p{
@@ -107,4 +107,8 @@ li{
 
 .credits a:hover{
     color:#303849;
+}
+
+.accordion-body{
+    text-align: start;
 }
