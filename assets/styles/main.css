@@ -61,30 +61,24 @@ p{
 
 .titre{
     font-size:2em;
-    margin-right: 20px;
-}
+    text-align:center;
+    color: #FFAC00;
 
-
-@media(max-width: 976px){
-    .titre{
-        font-size:25px;
-        margin-right: 20px;
-        width:300px;
-        text-align: center;
-    }
-    .body{
-        font-size: 0.7em;
-    }
 }
 
 @media(max-width: 710px){
-    .titre{
-        font-size:20px;
-        margin-right: 20px;
-        text-align: center;
-        width: 600px;
-    }
-    .body{
+    body{
         font-size: 0.7em;
     }
 }
+
+.listesize{
+    display: flex;
+    align-content: flex-start;
+    height: 150px;
+}
+li{
+    text-align: left;
+
+}
+
