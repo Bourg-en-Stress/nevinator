@@ -38,5 +38,3 @@ La problématique est la suivante : tous les développeurs ne sont pas des juris
 
 ## Charte graphique de l'association
 ![Charte graphique de l'association](https://zupimages.net/up/21/10/k37l.jpg)
-##Logo
-- [https://www.logogenie.fr/]
